@@ -85,6 +85,7 @@ td{
 
 .rowhead{
   border-top: 2px solid black;
+  border-right: 2px solid black;
 }
 
 
@@ -132,7 +133,8 @@ footer{
   text-align:center;
   color: #FFFFFF;
   min-height: 75px;
-  position: absolute;
+  position: fixed;
   left: 0;
   right: 0;
+  bottom: 0;
 }
